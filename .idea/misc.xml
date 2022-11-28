@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout-w936dp/activity_login.xml" value="0.197265625" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_admin_screen.xml" value="0.22735507246376813" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_browse_items.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_display_item.xml" value="0.22" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_display_new_order.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_display_user.xml" value="0.22" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_edit_category.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_edit_item.xml" value="0.2717391304347826" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_edit_order.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_edit_user.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_edit_user_acrivity.xml" value="0.1" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_home.xml" value="0.29030797101449274" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_login.xml" value="0.2630208333333333" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_login2.xml" value="0.2630208333333333" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_main.xml" value="0.3140625" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_shopping_cart.xml" value="0.22" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_show_categories.xml" value="0.22" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_show_items.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_show_my_orders.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_show_orders.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/activity_show_users.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/content_home.xml" value="0.29030797101449274" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/fragment_display_new_order.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/fragment_first.xml" value="0.29030797101449274" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/fragment_second.xml" value="0.26975683890577506" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/list_categories.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/list_categories_edit_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/list_items.xml" value="0.416015625" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/list_order.xml" value="0.3392210144927536" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/list_ordered_items.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/list_ordered_items_cart.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/list_ordered_items_order.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/list_users.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/nav_header.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/layout/order_list.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ronna/AndroidStudioProjects/ShopAppFront/app/src/main/res/menu/nav_drawer_menu.xml" value="0.22" />
+        <entry key="..\:/Users/ronna/Project/ShopAppFront/app/src/main/res/layout/activity_admin_screen.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/ronna/Project/ShopAppFront/app/src/main/res/layout/activity_browse_items.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/ronna/Project/ShopAppFront/app/src/main/res/layout/activity_display_item.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/ronna/Project/ShopAppFront/app/src/main/res/layout/activity_display_new_order.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/ronna/Project/ShopAppFront/app/src/main/res/layout/activity_display_order.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/ronna/Project/ShopAppFront/app/src/main/res/layout/activity_display_user.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/ronna/Project/ShopAppFront/app/src/main/res/layout/activity_edit_item.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/ronna/Project/ShopAppFront/app/src/main/res/layout/activity_main.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/ronna/Project/ShopAppFront/app/src/main/res/layout/activity_register.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/ronna/Project/ShopAppFront/app/src/main/res/layout/activity_show_categories.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/ronna/Project/ShopAppFront/app/src/main/res/layout/list_items.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/ronna/Project/ShopAppFront/app/src/main/res/layout/list_order.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/ronna/Project/ShopAppFront/app/src/main/res/layout/list_ordered_items_cart.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/ronna/Project/ShopAppFront/app/src/main/res/layout/list_ordered_items_order.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/ronna/Project/ShopAppFront/app/src/main/res/layout/list_users.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/ronna/Project/ShopAppFront/app/src/main/res/layout/nav_header.xml" value="0.24583333333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.shopappfront">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ShopAppFront"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+        <activity
+            android:name=".ui.AdminScreenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.display.DisplayUserActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.show.ShowMyOrdersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.display.DisplayNewOrderActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.show.BrowseItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.register.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.edit.category.EditCategoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.show.ShowCategories"
+            android:exported="false" />
+        <activity
+            android:name=".ui.edit.user.EditUserActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.show.ShowUsers"
+            android:exported="false" />
+        <activity
+            android:name=".ui.edit.order.EditOrderActivity"
+            android:exported="false"
+            android:label="@string/title_activity_edit_order"
+            android:theme="@style/Theme.ShopAppFront.NoActionBar" />
+        <activity
+            android:name=".ui.edit.item.EditItemActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.display.DisplayOrderActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.display.DisplayItemActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.ShoppingCartActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.show.ShowOrders"
+            android:exported="false" />
+        <activity
+            android:name=".ui.show.ShowItems"
+            android:exported="false" />
+        <activity
+            android:name=".ui.login.LoginActivity"
+            android:exported="false"
+            android:label="@string/title_activity_login" />
+        <activity
+            android:name=".ui.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
